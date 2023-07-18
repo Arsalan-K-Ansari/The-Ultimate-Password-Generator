@@ -2,41 +2,21 @@
 
 ## Deployed Link
 
-## How It All Began
+https://arsalan-k-ansari.github.io/The-Ultimate-Password-Generator/
 
-Our motivation for this project was to increase our skills of organizing HTML files. I did not make this file from scratch. This file was given to us, and I made some important changes.
+## Description
 
-What I learned from this project was that you can have a lot of div commands to organize a HTML file but the down part for that is that when you or anyone else you are collaborating with goes back to make changes to the file, they will have a hard time making out what each section actually is.
+In this assignment we had to use HTML, JavaScript, and CSS to create a random password generating app!
 
-For example, instead of div you can use some of these semantic elements:
+Below is a screen shot of the final product!
 
-- article
-- aside
-- details
-- figcaption
-- figure
-- footer
-- header
-- main
-- mark
-- nav
-- section
-- summary
-- time
-
-The benefit of using scemantic elements is that when you see something labeled as figcaption you know this is the caption for a figure.
-if this wasnt the case you would have hundreds of divs to go through before you found the necessary one.
-
-We also learned about accessible alternate attributes, which is a caption near a line of code for an image explaining what the image is.
-Beneficial because it helps you diferentiate between multiple Img codes by having a description.
+<img src="./Screenshot 2023-07-18 172945.png" alt="generated Pasword">
 
 ## Credits
 
-Benjamin Wright
-GitHub- Unknown
+MDN Docs
 
-W3Schools
-url- https://www.w3schools.com/html/html5_semantic_elements.asp
+My class mate LeAnne!
 
 ## License
 
